@@ -1,4 +1,4 @@
-"works" : [
+{"works" : [
 {
 "id" : 1,
 "icon_name": "icon fa fa-chain fa-2x",
@@ -18,4 +18,5 @@
 "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
 }
 ],
+}
 }
